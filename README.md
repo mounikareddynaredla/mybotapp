@@ -1,0 +1,2 @@
+# mybotapp
+BuddyInfoBotApp
